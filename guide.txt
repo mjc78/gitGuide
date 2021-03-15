@@ -30,6 +30,8 @@ local
 4. git checkout "master" 
 5. git merge "name" add merge message :q! to quit.
 
+made in branchGuide
+
 
 
 
