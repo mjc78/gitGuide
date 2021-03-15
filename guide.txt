@@ -1,0 +1,26 @@
+
+local
+1. git init
+2. git add . || filename 
+3. git status
+4. ls -a to see hidden files
+5. log into git:  git config user.email ""
+		  git config user.name ""
+	
+5.1 git commit -m " explicit message about what has changed"
+6. git log to check 
+7. git diff filename. to check differences
+8. git checkout filename. to roll back to last commited version
+
+remote github
+
+1. create repo
+2. choose private or public
+3. copy URL of repo 
+4. git remote add origin "URL"
+5. git push -u origin master
+
+
+
+
+  
