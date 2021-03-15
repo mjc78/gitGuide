@@ -20,6 +20,14 @@ remote github
 4. git remote add origin "URL"
 5. git push -u origin master
 
+branch guide
+
+local
+
+1. git branch "name"
+2. git branch to view  * on selected branch
+3. git checkout "name" to switch branch
+ 
 
 
 
